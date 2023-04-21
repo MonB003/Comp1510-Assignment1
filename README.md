@@ -9,12 +9,29 @@
 
 ## Table of Contents
 - [Technologies](#technologies)
+- [Listing of File Contents of folder](#file-contents-of-folder)
 - [How to run the project](#how-to-run-project)
 
 <br>
 
 ## Technologies
 * Java
+
+<br>
+
+## File Contents of Folder
+
+```
+├─── q1              # Question 1
+    / Change.java
+├─── q2              # Question 2
+    / Sqrt.java
+├─── q3              # Question 3
+    / DiscountCalculator.java
+└─── q4              # Question 4
+    / Pack.java 
+└─── README.md
+```
 
 <br>
 
